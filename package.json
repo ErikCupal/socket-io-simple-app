@@ -1,0 +1,14 @@
+{
+  "name": "socket-io-simple-app",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "server": "node --harmony ./server/index"
+  },
+  "author": "Erik Cupal",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.1",
+    "socket.io": "^1.7.3"
+  }
+}
