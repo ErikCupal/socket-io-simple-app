@@ -4,7 +4,7 @@ const socketIo = require('socket.io')
 const log = console.log
 
 const app = express()
-const port = 3000
+const port = 8082
 const server = http.createServer(app)
 const io = socketIo(server)
 

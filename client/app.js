@@ -1,4 +1,4 @@
-const socket = io('http://localhost:8082')
+const socket = io('https://node.cup.al:8082')
 
 let name = undefined
 
