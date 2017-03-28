@@ -2,7 +2,7 @@
   "name": "socket-io-simple-app",
   "version": "1.0.0",
   "description": "",
-  "main": "./server/index.js"
+  "main": "./server/index.js",
   "scripts": {
     "server": "node --harmony ./server/index"
   },
